@@ -10,7 +10,7 @@ load_dotenv()
 API_ID = int(getenv("27027980"))
 API_HASH = getenv("d5b5be7332bfe68e2a1f0a80f99482d7")
 
-BOT_TOKEN = getenv("6294979288:AAGBjAQ8kqAN09n55nQXvRyv1Z80QFA7zI0")
+BOT_TOKEN = getenv("6078032662:AAFhfLE6qq-R4MKmk_zfq00z06f-kGw8CHY")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID"))
