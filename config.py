@@ -13,7 +13,8 @@ API_HASH = getenv("6a00b295480c9b9ceff34b43a4b92977")
 
 BOT_TOKEN = getenv("7656669753:AAHC7nwjYsfzL0d-z2rFCgai5X1hv-JdJis")
 
-MONGO_DB_URI = getenv("MONGO_DB_URI", None)
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://madboy123:madboy0707@madboy07.r1nef.mongodb.net/?retryWrites=true&w=majority&appName=madboy07")
+
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID","1002182187594"))
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "mayataggerbot")
 
